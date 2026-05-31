@@ -10,7 +10,7 @@ author_profile: true
 **International Trade** — T.A.  
 Bachelor of Arts in Economics  
 
-**Econometrics I** — T.A. 
+**Econometrics I** — T.A.  
 Master of Arts in Economics  
 
 **Econometrics II** — T.A.  
@@ -20,6 +20,7 @@ Master of Arts in Economics
 
 **Intermediate Macroeconomics** - T.A.
 Bachelor of Arts in Economics
+
 
 **Intermediate Microeconomics** - T.A.
 Bachelor of Arts in Economics
