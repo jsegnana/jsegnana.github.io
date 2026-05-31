@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Juan Segnana and I am a third (fifth)-year PhD Candidate
+Welcome! My name is Juan Segnana and I am a third-year PhD Candidate
 in Economics at [Tilburg University](https://www.tilburguniversity.edu/).
 
 My research interests lie at the crossroads of **developmental**, **migration**,
