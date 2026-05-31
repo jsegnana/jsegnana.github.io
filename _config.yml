@@ -23,7 +23,7 @@ repository               : "jsegnana/jsegnana.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.jfif"
+  avatar           : "images/profile.png"
   name             : #"Juan Segnana"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics. Development Economics | Migration | Political Economy."
