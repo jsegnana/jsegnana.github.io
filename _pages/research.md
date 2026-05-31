@@ -38,7 +38,7 @@ with J. Joaquin Endara
 <details>
 <summary>Abstract</summary>
 <br>
-This paper provides detailed evidence on the short-term economic effects of the large and localized Rohingya migratory shock on the Bangladeshi host population. The analysis shows the welfare impact of changes in prices of goods on the host community due to the large population influx. Rice prices are significantly higher shortly after the population shock started but this does not extend to other food items. Rice inflation underlies a great deal of variation in welfare. We register large price variations for the main items consumed by Rohingyas and hosts right after the influx began. Our results show an immediate and temporary welfare loss for the bottom quintile which was eliminated and reversed due to large food aid provided by the World Food Program (WFP) together with highly integrated markets.
+This paper provides detailed evidence on the short-term economic effects of the large and localized Rohingya migratory shock on the Bangladeshi host population. The analysis shows the welfare impact of changes in prices of goods on the host community due to the large population influx. We register large price variations for the main items consumed by Rohingyas and hosts right after the influx began. In particular, rice inflation underlies a great deal of variation in welfare.  Our results show an immediate and temporary welfare loss for the bottom quintile which was eliminated and reversed due to large food aid provided by the World Food Program (WFP) together with highly integrated markets.
 </details>
 
 ---
