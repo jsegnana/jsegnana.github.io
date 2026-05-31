@@ -43,6 +43,30 @@ This paper provides detailed evidence on the short-term economic effects of the 
 
 ---
 
+## Work in Progress
+---
+
+**[Food Aid, Trade and Welfare]**
+with J. Joaquin Endara, Burak Uras and Francesco Carli 
+<details>
+<summary>Abstract</summary>
+<br>
+We study how the design of food assistance programs shapes aid recipients’ consumption, secondary-market trade and prices. Exploiting the World Food Programme’s (WFP) transition from in-kind food aid to e-vouchers across Rohingya refugee camps in Cox’s Bazar, Bangladesh, we document three findings. First, e-voucher recipients achieve the same caloric intake as in-kind recipients but spend more on non-food items not provided by WFP, revealing binding non-food constraints. Second, e-vouchers increase rice trade in secondary resale markets, consistent with rice having high consumption -and intrinsic liquidity- value. Third, we document price dispersion in secondary markets, with median resale prices below primary-market prices, implying a redistribution of value from sellers to buyers. We rationalize these patterns with a model of consumption choice in which food aid trade is an efficient response to unmet consumption needs. The model shows that e-vouchers and secondary-market trade jointly improve flexibility and allocative efficiency leading to welfare gains.
+</details>
+
+---
+
+**[Prolonged Crises, Intergroup Contact and Interethnic Attitudes]**
+with J. Joaquin Endara, Alvin Etang Ndip, Julian Ashwin and Vijayendra Rao
+<details>
+<summary>Abstract</summary>
+<br>
+How does prolonged intergroup exposure affect interethnic attitudes? We build a unique qualitative and quantitative dataset capturing interethnic attitudes between Rohingya refugees and their neighboring Bangladeshi hosts in Cox's Bazar, Bangladesh. Exploiting a quasi-natural experiment stemming from the expansion of refugee camps that generated spatial variation in intergroup proximity, we find asymmetric effects. Intergroup closeness and unforced contact worsen host views toward refugees but do not shape Rohingya views toward Bangladeshi. Results hold across contact contexts, frequencies, and durations. Shallow, infrequent contact dominates the margin of interactions. Perceived competition in informal labor markets emerges as the most plausible mechanism driving anti-refugee sentiment among hosts.
+</details>
+
+---
+
+
 ## Other Publications
 
 **[Poverty and Inequality in Maldives](https://documents1.worldbank.org/curated/en/099050006092240654/pdf/P175692013149d03082ee01cbf1e014aed.pdf)**  
