@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-**[The Economic Impacts of the Syrian Refugee Migration on Jordan](https://documents1.worldbank.org/curated/en/099211109092430650/pdf/IDU-af21df74-0904-45a3-95ff-67580f9cee57.pdf)**  
+**[The Economic Impacts of the Syrian Refugee Migration on Jordan: An Integration Perspective](https://documents1.worldbank.org/curated/en/099211109092430650/pdf/IDU-af21df74-0904-45a3-95ff-67580f9cee57.pdf)**  
 with Gladys Lopez-Acevedo, Raymond Robertson, and Jaime Alfonso Roche Rodriguez  
 *World Bank Policy Research Working Paper 10903*, 2024
 
