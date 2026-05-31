@@ -7,12 +7,12 @@ author_profile: true
 
 ## Tilburg University
 
-**International Trade** — Tutorial Sessions  
+**International Trade** — T.A.  
 Bachelor of Arts in Economics  
 
-**Econometrics I** — Tutorial Sessions  
+**Econometrics I** — T.A. 
 Master of Arts in Economics  
 
-**Econometrics II** — Tutorial Sessions  
+**Econometrics II** — T.A.  
 Master of Arts in Economics  
 
