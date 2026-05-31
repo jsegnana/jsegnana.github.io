@@ -18,10 +18,10 @@ Master of Arts in Economics
 
 ## Universidad de Buenos Aires
 
-**Intermediate Macroeconomics** - T.A.
+**Intermediate Macroeconomics** - T.A.  
 Bachelor of Arts in Economics
 
 
-**Intermediate Microeconomics** - T.A.
+**Intermediate Microeconomics** - T.A.   
 Bachelor of Arts in Economics
 
