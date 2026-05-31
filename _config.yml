@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Welcome to my personal webpage"
+title                    : "Juan Segnana"
 title_separator          : "-"
 name                     : &name "Juan Segnana"
 description              : &description "PhD Candidate in Economics at Tilburg University"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Juan Segnana"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Economics, Tilburg University. Development Economics | Migration | Political Economy."
-  location         : "Tilburg, Netherlands"
+  bio              : "PhD Candidate in Economics. Development Economics | Migration | Political Economy."
+  location         : # "Tilburg, Netherlands"
   employer         : "Tilburg University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "j.segnana@tilburguniversity.edu" 
 
   # Academic websites
   academia         : # URL
