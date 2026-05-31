@@ -24,7 +24,7 @@ repository               : "jsegnana/jsegnana.github.io"
 author:
   # Biographic information
   avatar           : "images/profile.jfif"
-  name             : "Juan Segnana"
+  name             : #"Juan Segnana"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics. Development Economics | Migration | Political Economy."
   location         : # "Tilburg, Netherlands"
